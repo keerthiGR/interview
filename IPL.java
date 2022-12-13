@@ -1,4 +1,3 @@
-package interview;
 import java.util.*;
 class Team{											
 	String Name;										 //here i'm creating instance variables to hold name,points,result of the teams
